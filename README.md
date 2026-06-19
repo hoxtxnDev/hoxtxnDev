@@ -42,13 +42,54 @@
 
 ## 📌 Pinned Projects
 
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| [HXSCAN-PYTHON](https://github.com/hoxtxnDev/HXSCAN-PYTHON) | Concurrent TCP port scanner · stdlib only · service detection · semantic exit codes | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🟢 Active |
-| [HXDNS-Python](https://github.com/hoxtxnDev/HXDNS-Python) | DNS recon tool · Ghost Protocol evasion · subdomain enum · AXFR · PTR | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🟢 Active |
-| [MTD-HX](https://github.com/hoxtxnDev/MTD-HX) | Open-source framework for structured ethical cybersecurity hypothesis research | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | 🟢 Active |
-| [ECOMARKET-REPO](https://github.com/hoxtxnDev/ECOMARKET-REPO) | Java Spring Boot microservices e-commerce · JWT · PostgreSQL | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | 🔵 In Progress |
-| [NormaCheck](https://github.com/hoxtxnDev/NormaCheck) | RegTech SaaS for Chilean SMB compliance (Ley 21.595) · Spring Boot · PostgreSQL | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | 🔵 In Progress |
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" height="4px"/>
+
+<div style="border: 2px solid #FF2020; border-radius: 10px; padding: 16px; margin: 12px 0; background: #0d1117;">
+  <h3><a href="https://github.com/hoxtxnDev/HXSCAN-PYTHON">🔍 HXSCAN-PYTHON</a></h3>
+  <p>Concurrent TCP port scanner · stdlib only · service detection · semantic exit codes</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <span>🟢 Active</span>
+  </p>
+</div>
+
+<div style="border: 2px solid #FF2020; border-radius: 10px; padding: 16px; margin: 12px 0; background: #0d1117;">
+  <h3><a href="https://github.com/hoxtxnDev/HXDNS-Python">🌐 HXDNS-Python</a></h3>
+  <p>DNS recon tool · Ghost Protocol evasion · subdomain enum · AXFR · PTR</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <span>🟢 Active</span>
+  </p>
+</div>
+
+<div style="border: 2px solid #FF2020; border-radius: 10px; padding: 16px; margin: 12px 0; background: #0d1117;">
+  <h3><a href="https://github.com/hoxtxnDev/MTD-HX">📐 MTD-HX</a></h3>
+  <p>Open-source framework for structured ethical cybersecurity hypothesis research</p>
+  <p>
+    <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+    <span>🟢 Active</span>
+  </p>
+</div>
+
+<div style="border: 2px solid #FF2020; border-radius: 10px; padding: 16px; margin: 12px 0; background: #0d1117;">
+  <h3><a href="https://github.com/hoxtxnDev/ECOMARKET-REPO">🏪 ECOMARKET-REPO</a></h3>
+  <p>Java Spring Boot microservices e-commerce · JWT · PostgreSQL</p>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+    <span>🔵 In Progress</span>
+  </p>
+</div>
+
+<div style="border: 2px solid #FF2020; border-radius: 10px; padding: 16px; margin: 12px 0; background: #0d1117;">
+  <h3><a href="https://github.com/hoxtxnDev/NormaCheck">📋 NormaCheck</a></h3>
+  <p>RegTech SaaS for Chilean SMB compliance (Ley 21.595) · Spring Boot · PostgreSQL</p>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+    <span>🔵 In Progress</span>
+  </p>
+</div>
 
 ---
 
