@@ -39,7 +39,7 @@ REGTECH    Chilean SMB Compliance SaaS (Ley 21.595)
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/SQL%20%2F%20PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00B4D8?style=flat-square&logoColor=white)
@@ -53,8 +53,8 @@ REGTECH    Chilean SMB Compliance SaaS (Ley 21.595)
 |---|---|---|---|
 | [HXSCAN-PYTHON](https://github.com/hoxtxnDev/HXSCAN-PYTHON) | Concurrent TCP port scanner · stdlib only · service detection · semantic exit codes | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🟢 Active |
 | [HXDNS-Python](https://github.com/hoxtxnDev/HXDNS-Python) | DNS recon tool · Ghost Protocol evasion · subdomain enum · AXFR · PTR | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🟢 Active |
-| [MTD-HX](https://github.com/hoxtxnDev/MTD-HX) | Open-source framework for structured ethical cybersecurity hypothesis research | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | 🟢 Active |
-| [ECOMARKET-REPO](https://github.com/hoxtxnDev/ECOMARKET-REPO) | Java Spring Boot microservices e-commerce · JWT · Docker · PostgreSQL | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | 🔵 In Progress |
+| [HXRECON](https://github.com/hoxtxnDev/HXRECON) | Professional-grade network recon suite · asyncio · Ghost Protocol OPSEC | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 🟢 Active |
+| [ECOMARKET-REPO](https://github.com/hoxtxnDev/ECOMARKET-REPO) | Java Spring Boot microservices e-commerce · JWT · PostgreSQL | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | 🔵 In Progress |
 | [NormaCheck](https://github.com/hoxtxnDev/NormaCheck) | RegTech SaaS for Chilean SMB compliance (Ley 21.595) · Spring Boot · PostgreSQL | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | 🔵 In Progress |
 
 <hr>
@@ -96,6 +96,12 @@ REGTECH    Chilean SMB Compliance SaaS (Ley 21.595)
 Active on Hack The Box — `Academician` · `Unwavering User` · `Cyber Rookie 365`
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-hoxtxn-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c7e37-0d4b-708c-88ef-6c9a7cdd081d)
+
+<hr>
+
+## COLLABORATE
+
+Open to freelance security engagements, red team projects, and backend development. Reach out on Discord or open an issue on any repo.
 
 <hr>
 
